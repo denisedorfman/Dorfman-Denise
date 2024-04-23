@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+    h1{text-align: center;
+    color: magenta;
+    font-weight: 700;
+    font-size: 65px;
+    font-family: Oswald, sans-serif;
+    margin-bottom: 0%;}
+
+    h2{text-align: center;
+    color: magenta;
+    font-weight: 200;
+    font-size: 35px;
+    font-family: Oswald, sans-serif;
+    margin-top: 0%;
+    margin-bottom: 0%;}
+
+    h3{color: magenta;
+        font-weight: 200;
+        font-family: Montserrat, sans-serif;
+        font-size: 25px;}
+    
+    h4{color: black;
+    font-family: Montserrat, sans-serif;
+    font-weight: 100;
+    font-size: 15px;}
+
+    h5{font-family: Montserrat, sans-serif;
+        font-weight: 100;
+        font-size: 15px;}
+    
+    h6{font-family:Montserrat, sans-serif;
+        font-weight: 100;
+        font-size: 15px;}  
+}
+img{width: 50%;
+border-radius: 800px;
+display: flex;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+#vinculo:hover {font-style: italic;}
+a:hover {text-decoration: underline;}
+a {text-decoration: none;}
